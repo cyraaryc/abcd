@@ -1,6 +1,6 @@
 /**
  * Main entry point for the CMPM 121 Section Activity
- * Simple starter template - customize to your heart's content!
+ * Simple starter template - customize to your heart's content! add
  */
 
 console.log("🎮 CMPM 121 - Starting...");
